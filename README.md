@@ -1,4 +1,4 @@
-# Consumo de energia - Cálculo de uso de watts e valores.
+# Consumo de energia - Cálculo do uso de watts e valores.
 # Este projeto foi criado em Python
 
 Esse projeto foi criado para calcular o consumo de energia mensal em watts e dizendo os custos desses usos.
